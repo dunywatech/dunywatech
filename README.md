@@ -12,7 +12,7 @@ I'm a dedicated cyber defender with a strong passion for cybersecurity and prote
 
 
 ## 💼 Key Competencies
-I bring hands-on experience in Security Analysis and triage, Malware Analysis, Cyber Threat Intelligence, and Vulnerability Management, where I've successfully demontrated my skills with hands on labs and Projects. My skills encompass SIEMs,EDRs,IDS,Firewalls,Incident Managemen Platforms, Threat Intelligence Platform and other tools that help me effectively mitigate risks and fortify defenses against cyber threats.
+I bring hands-on experience in Security Analysis and triage, Malware Analysis, Cyber Threat Intelligence, and Vulnerability Management, where I've successfully demontrated my skills with hands on labs and Projects. My skills encompass SIEMs,EDRs,IDS,Firewalls,Incident Management Systems, Threat Intelligence Platform and other tools that help me effectively mitigate risks and fortify defenses against cyber threats.
 
 
 ## 🚀 Objectives
