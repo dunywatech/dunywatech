@@ -1,18 +1,22 @@
-# IT Portfolio
+# Cybersecurity Portfolio
 
-## Hi, I am Mvula Dunywa
+## Hi, I am Mvula Dunywa.
 
 <a href="https://www.linkedin.com/in/mvuladunywa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@mvuladunywa"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" />
 <img src="https://img.shields.io/badge/-WhatsApp-25D366?&style=for-the-badge&logo=WhatsApp&logoColor=white" />
 
 
-## Profile
+## 👋 About Me
+I'm a hands-on cyber defender with a strong passion for cybersecurity and protecting digital assets from evolving threats. My number one motivation is to prevent, detect, and defend against cyber threats to keep the business secure and avoid security breaches that could cause a financial and reputational loss.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+## 💼 Key Competencies
+I bring hands-on experience in Security Analysis and triage, Malware Analysis, Cyber Threat Intelligence, Vulnerability Management, where I've successfully demontrated my skills with hands on labs and. My skills encompass SIEMs,EDRs,, allowing me to effectively mitigate risks and fortify defenses against cyber threats.
+
 
 ## Objectives
-The objective of my cybersecurity portfolio is to showcase my expertise, experience, and passion for cybersecurity, demonstrating my ability to effectively identify, mitigate, and manage security risks and threats in diverse environments. Through a collection of projects, certifications, achievements, and case studies, I aim to establish credibility as a skilled cybersecurity professional, capable of making meaningful contributions to organizations' security posture and safeguarding their assets and data from cyber threats."
+The objective of my cybersecurity portfolio is to showcase my skills, experience, and passion for cybersecurity, demonstrating my ability to effectively identify, mitigate, and manage security risks and threats in diverse environments. Through a collection of projects, certifications, achievements, and case studies, I aim to establish credibility as a skilled cybersecurity professional, capable of making meaningful contributions to organizations' security posture and safeguarding their assets and data from cyber threats."
 
 ## Projects Overview
 |  Category           |     Project     |                 Skills                |     Tools       |     
