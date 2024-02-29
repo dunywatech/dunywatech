@@ -8,15 +8,15 @@
 
 
 ## 👋 About Me
-I'm a hands-on cyber defender with a strong passion for cybersecurity and protecting digital assets from evolving threats. My number one motivation is to prevent, detect, and defend against cyber threats to keep the business secure and avoid security breaches that could cause a financial and reputational loss.
+I'm a dedicated cyber defender with a strong passion for cybersecurity and protecting digital assets from evolving threats. My number one motivation is to prevent, detect, and defend against cyber threats to keep the business secure and avoid security breaches that could cause a financial and reputational loss.
 
 
 ## 💼 Key Competencies
-I bring hands-on experience in Security Analysis and triage, Malware Analysis, Cyber Threat Intelligence, Vulnerability Management, where I've successfully demontrated my skills with hands on labs and. My skills encompass SIEMs,EDRs,, allowing me to effectively mitigate risks and fortify defenses against cyber threats.
+I bring hands-on experience in Security Analysis and triage, Malware Analysis, Cyber Threat Intelligence, and Vulnerability Management, where I've successfully demontrated my skills with hands on labs and Projects. My skills encompass SIEMs,EDRs,IDS,Firewalls,Incident Managemen Platforms, Threat Intelligence Platform and other tools that help me effectively mitigate risks and fortify defenses against cyber threats.
 
 
-## Objectives
-The objective of my cybersecurity portfolio is to showcase my skills, experience, and passion for cybersecurity, demonstrating my ability to effectively identify, mitigate, and manage security risks and threats in diverse environments. Through a collection of projects, certifications, achievements, and case studies, I aim to establish credibility as a skilled cybersecurity professional, capable of making meaningful contributions to organizations' security posture and safeguarding their assets and data from cyber threats."
+## 🚀 Objectives
+The objective of my cybersecurity portfolio is to showcase my skills, experience, and passion for cybersecurity, demonstrating my ability to effectively identify, mitigate, and manage security risks and threats in diverse environments. Through a collection of projects, certifications, achievements, and case studies, I aim to establish credibility as a skilled cybersecurity professional, capable of making meaningful contributions to organizations' security posture and safeguarding their assets and data from cyber threats.
 
 ## Projects Overview
 |  Category           |     Project     |                 Skills                |     Tools       |     
@@ -55,7 +55,7 @@ The objective of my cybersecurity portfolio is to showcase my skills, experience
     <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Any.Run-FF6E21?&style=for-the-badge&logo=Any.Run&logoColor=white" />
     <img src="https://img.shields.io/badge/-PEStudio-000000?&style=for-the-badge&logo=PEStudio&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Flare%20VM-000000?&style=for-the-badge&logo=Windows%20Terminal&logoColor=white" />
 
 <div>
 
